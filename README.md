@@ -1,6 +1,9 @@
 ## 🖼️ Screenshot
 
-![Library Management UI](./Screenshot 2025-11-04 203406.png)
+Here’s the running Library Management UI:
+
+![Library Management UI Screenshot](./screenshots/Screenshot%202025-11-04%20203406.png)
+
 
 # Getting Started with Create React App
 
