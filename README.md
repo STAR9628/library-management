@@ -1,6 +1,6 @@
 ## 🖼️ Screenshot
 
-![Library Management UI](./screenshots/Screenshot%202025-11-04%20203406.png)
+![Library Management UI](./Screenshot 2025-11-04 203406.png)
 
 # Getting Started with Create React App
 
