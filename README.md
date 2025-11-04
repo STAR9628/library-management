@@ -2,7 +2,8 @@
 
 Here’s the running Library Management UI:
 
-![Library Management UI Screenshot](./screenshots/Screenshot%202025-11-04%20203406.png)
+![Library Management UI Screenshot](./Screenshot%202025-11-04%20203406.png)
+
 
 
 # Getting Started with Create React App
